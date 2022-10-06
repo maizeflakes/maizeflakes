@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maizeflakes
-- 👀 I’m interested in Langdev and ML
+- 👀 I’m interested in CLI, Game engines, and ML
 - 🌱 I’m currently learning Rust, Go and C
 
 
