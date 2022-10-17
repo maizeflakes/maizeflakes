@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maizeflakes
-- 👀 I’m interested in CLI, Game engines, and ML
-- 🌱 I’m currently learning Rust, Go and C
+- 👀 I’m interested in the terminal
+- 🌱 I’m currently learning Go
 
 
 <!---
